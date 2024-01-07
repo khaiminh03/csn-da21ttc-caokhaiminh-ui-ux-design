@@ -6,3 +6,4 @@
 # Tuần 2 : Tìm hiểu về Mobile Web
 # Tuần 3 : Thiết kế giao diện CV
 # Tuần 4 : Viết báo cáo đồ án hoàn thiện sản phẩm 
+# Tuần 5 : Hoàn thành quyển báo cáo 
